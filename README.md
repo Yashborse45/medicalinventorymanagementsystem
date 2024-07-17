@@ -19,7 +19,6 @@ The Medical Inventory Management System is a streamlined and efficient tool desi
 - **Streamlit:** A powerful library for creating web applications.
 - **SQLite:** A lightweight database for storing user, product, and sales information.
 - **FPDF:** A Python library for generating PDF files.
-- **HTML/CSS/JavaScript:** For frontend design and interaction.
 
 ## Installation
 
@@ -77,8 +76,9 @@ The Medical Inventory Management System is a streamlined and efficient tool desi
 
 5. **Run the application:**
     ```bash
-    streamlit run app.py
+    streamlit run medicalinventory.py
     ```
+    Make sure to save the piechrt.py too.
 
 ## Usage
 
